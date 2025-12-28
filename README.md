@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="assets/banner.gif" width="880" alt="GitHub README banner" />
+  <img src="images/banner2.gif" width="880" alt="GitHub README banner" />
 </p>
