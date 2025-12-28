@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner2.gif" width="880" alt="GitHub README banner" />
+  <img src="images/BannerHeading.gif" width="880" alt="GitHub README banner" />
 </p>
 
  Currently I am a Computer Engineering student at California State University, Long Beach! 
