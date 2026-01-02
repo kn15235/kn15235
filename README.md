@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.usebuildify.com/">
-    <img src="images/buildify.png" width="155" />
+    <img src="images/buildify.png" width="140" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://horstmann.com/codecheck/">
