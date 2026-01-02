@@ -32,9 +32,6 @@ jobs:
         with:
           filename: more_general.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          template: classic
-          user: kn15235
-          base: ""
           plugin_fortune: yes
           plugin_habits: yes
           plugin_habits_charts_type: classic
@@ -43,6 +40,10 @@ jobs:
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
+          plugin_people: yes
+          plugin_people_limit: 24
+          plugin_people_size: 28
+          plugin_people_types: followers, following
           plugin_stars: yes
           plugin_stars_limit: 3
           plugin_topics: yes
