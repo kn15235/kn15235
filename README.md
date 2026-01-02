@@ -6,6 +6,14 @@
 
 🍀 Greetings! I am a **3rd year Computer Engineering & Computer Science** student at **California State University, Long Beach**! On campus, as a **ChatGPT Ambassador** for [**OpenAI Edu**](https://academy.openai.com/public/clubs/higher-education-05x4z/content), I help peers to explore how AI can shape learning through hosted workshops
 
+>  **💻 This winter, I'm currently focusing/working on:**
+> - [ 🍀 ] [**`Internship @ Buildify`**](https://www.usebuildify.com/), a $20M pre-seed startup backed by [**Google Ventures**](https://www.gv.com/) & [**Deloitte**](https://www.deloitte.com/ca/en.html)
+> - [ ❤ ] **`Personal Portfolio Website`**, to display my works!
+> - [ 🌱 ] **`DevSprite.io`**, project to create/build/maintain websites for small local businesses 
+> - [ 😴 ] **`improving my sleep schedule...`**
+> <p align="center">
+> <img src="images/working_dog.gif" width="335" alt="WorkingDog" /> </p>
+
 🍀 With my past internships & open source projects, I have about **1+ years of experience** in software engineering (front & back-end) from working/contributing at: 
 
 <p align="center">
@@ -26,15 +34,6 @@
   </a>
   &nbsp;&nbsp;&nbsp;
 </p>
-
-
->  **💻 This winter, I'm currently focusing/working on:**
-> - [ 🍀 ] [**`Internship @ Buildify`**](https://www.usebuildify.com/), a $20M pre-seed startup backed by [**Google Ventures**](https://www.gv.com/) & [**Deloitte**](https://www.deloitte.com/ca/en.html)
-> - [ ❤ ] **`Personal Portfolio Website`**, to display my works!
-> - [ 🌱 ] **`DevSprite.io`**, project to create/build/maintain websites for small local businesses 
-> - [ 😴 ] **`improving my sleep schedule...`**
-> <p align="center">
-> <img src="images/working_dog.gif" width="335" alt="WorkingDog" /> </p>
 
 <img src="images/Infographics.png" width="190" alt="Infographics" />
 </p>
