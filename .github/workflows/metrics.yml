@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "0 0 * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
@@ -26,3 +26,24 @@ jobs:
           config_timezone: America/Los_Angeles
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+      
+      - name: MoreGeneral
+        uses: lowlighter/metrics@latest
+        with:
+          filename: more_general.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          plugin_fortune: yes
+          plugin_habits: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
+          plugin_stars: yes
+          plugin_stars_limit: 3
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_topics_mode: starred
+          plugin_topics_sort: stars
+        
