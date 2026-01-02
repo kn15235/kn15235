@@ -4,31 +4,41 @@
 <img src="images/IntroHeader.png" width="190" alt="Introduction" />
 </p>
 
-🍀 Greeting!  I am a Computer Engineering student at California State University, Long Beach!  Through my internships & open source contributions, I have experience in software engineering and full-stack web development
+🍀 Greetings! I am a **3rd year Computer Engineering & Computer Science** student at **California State University, Long Beach**! On campus, as a **ChatGPT Ambassador** for [**OpenAI Edu**](https://academy.openai.com/public/clubs/higher-education-05x4z/content), I help peers to explore how AI can shape learning through hosted workshops
+
+🍀 With my past internships & open source projects, I have about **1+ years of experience** in software engineering (front & back-end) from working/contributing at: 
 
 <p align="center">
-  <a href="https://github.com/yourname/project1">
-    <img src="https://example.com/project1.png" width="200" />
+  <a href="https://www.usebuildify.com/">
+    <img src="images/buildify.png" width="155" />
   </a>
-  <a href="https://github.com/yourname/project2">
-    <img src="https://example.com/project2.png" width="200" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://horstmann.com/codecheck/">
+    <img src="images/codecheck.png" width="155" />
   </a>
-  <a href="https://github.com/yourname/project3">
-    <img src="https://example.com/project3.png" width="200" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://csulbwic.com/">
+    <img src="images/WIC.png" width="155" />
   </a>
-  <a href="https://github.com/yourname/project3">
-    <img src="https://example.com/project3.png" width="200" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://openenergydashboard.org/index.html">
+    <img src="images/OED.png" width="155" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+    <a href="">
+    <img src="images/elevvo.png" width="155" />
   </a>
 </p>
 
->  **💻 This winter, I'm currently focusing/working on:**
-> - [ 🍀 ] [`Internship @ Buildify`](https://www.usebuildify.com/), a $20M pre-seed startup backed by [Google Ventures](https://www.gv.com/) & [Deloitte](https://www.deloitte.com/ca/en.html)
-> - [ ❤ ] `Personal Portfolio Website`, to display my works!
-> - [ 🌱 ] `DevSprite.io`, project to create/build/maintain websites for small local businesses 
-> - [ 😴 ] `improving my sleep schedule...💤`
-><br><br/>
 
-<br><br/>
+>  **💻 This winter, I'm currently focusing/working on:**
+> - [ 🍀 ] [**`Internship @ Buildify`**](https://www.usebuildify.com/), a $20M pre-seed startup backed by [**Google Ventures**](https://www.gv.com/) & [**Deloitte**](https://www.deloitte.com/ca/en.html)
+> - [ ❤ ] **`Personal Portfolio Website`**, to display my works!
+> - [ 🌱 ] **`DevSprite.io`**, project to create/build/maintain websites for small local businesses 
+> - [ 😴 ] **`improving my sleep schedule...`**
+> <p align="center">
+> <img src="images/working_dog.gif" width="335" alt="WorkingDog" /> </p>
+
 <img src="images/Infographics.png" width="190" alt="Infographics" />
 </p>
 
