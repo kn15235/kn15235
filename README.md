@@ -10,11 +10,11 @@
 
 <p align="center">
   <a href="https://www.usebuildify.com/">
-    <img src="images/buildify.png" width="140" />
+    <img src="images/buildify.png" width="160" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://horstmann.com/codecheck/">
-    <img src="images/codecheck.png" width="155" />
+    <img src="images/codecheck.png" width="160" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://csulbwic.com/">
@@ -25,9 +25,6 @@
     <img src="images/OED.png" width="155" />
   </a>
   &nbsp;&nbsp;&nbsp;
-    <a href="">
-    <img src="images/elevvo.png" width="155" />
-  </a>
 </p>
 
 
