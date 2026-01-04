@@ -13,10 +13,32 @@
 > - [ 😴 ] **`improving my sleep schedule...`**
 > <p align="center">
 > <img src="images/working_dog.gif" width="335" alt="WorkingDog" /> </p>
+>
+> 
+> **💻 My Tech Stack includes:**
+><div align="center">
+	> <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
+	> <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+	> <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
+	> <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
+	> <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
+	> <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
+	> <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code>
+	> <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>
+	> <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code>
+	> <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/></code>
+	> <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/latex.png" alt="LaTeX" title="LaTeX"/></code>
+	> <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
+	> <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" alt="NumPy" title="NumPy"/></code>
+	> <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
+	> <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
+	> <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/></code>
+> 
+> &nbsp;&nbsp;&nbsp;</div> 
 
+ 
 
-
-🍀 With my past internships & open source projects, I have about **1+ years of experience** in software engineering (front & back-end) from working/contributing at: 
+🍀 With my past internships & open source projects, I have **1+ years of experience** in software engineering (front & back-end) from working/contributing at: 
 
 <p align="center">
   <a href="https://www.usebuildify.com/">
@@ -36,6 +58,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
 </p>
+  &nbsp;&nbsp;&nbsp;
 
 <img src="images/Infographics.png" width="190" alt="Infographics" />
 </p>
@@ -47,7 +70,13 @@
   </tr>
 </table>
 
-<sub>Infographics were generated using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
+<p align="right">
+  <sub>
+    These cool infographics were generated using
+    <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a>! ❤
+  </sub>
+</p>
+
 
 
 
