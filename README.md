@@ -14,6 +14,8 @@
 > <p align="center">
 > <img src="images/working_dog.gif" width="335" alt="WorkingDog" /> </p>
 
+
+
 🍀 With my past internships & open source projects, I have about **1+ years of experience** in software engineering (front & back-end) from working/contributing at: 
 
 <p align="center">
@@ -45,7 +47,7 @@
   </tr>
 </table>
 
-<sub>These infographics were generated using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
+<sub>Infographics were generated using [lowlighter/metrics](https://github.com/lowlighter/metrics)</sub>
 
 
 
