@@ -16,7 +16,7 @@
 >
 > 
 
-🍀 With my past internships & open source projects, I have **1+ years of experience** in software engineering (front & back-end) from working/contributing at: 
+<!-- 🍀 With my past internships & open source projects, I have **1+ years of experience** in software engineering (front & back-end) from working/contributing at: 
 
 <p align="center">
   <a href="https://www.usebuildify.com/">
@@ -36,8 +36,9 @@
   </a>
   &nbsp;&nbsp;&nbsp;
 </p>
+-->
 
-**📖 My Tech Stack includes . . .**
+**🍀 My Tech Stack includes . . .**
 
 <div align="center">
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
@@ -73,7 +74,7 @@
 <p align="right">
   <sub>
     These cool infographics were generated using
-    <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a>! ❤
+    <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a>! 
   </sub>
 </p>
 
