@@ -1,4 +1,24 @@
+
+<!--<p align="center">
+  <img src="" alt="logo" width="52" />
+</p>
+-->
 <p align="center">
+  Hello world! <br> Visit my site to learn more about me! :D
+  
+</p>
+
+<p align="center">
+  <a href="https://kn15235.github.io/PortfolioWebsite/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2f2f2f?style=flat-square&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+
+
+
+
+<!--<p align="center">
   <img src="images/BannerHeading.gif" width="1500" alt="GitHub README banner" />
 </p>
 <img src="images/IntroHeader.png" width="190" alt="Introduction" />
@@ -38,7 +58,7 @@
 </p>
 -->
 
-**🍀 My Tech Stack includes . . .**
+<!--**🍀 My Tech Stack includes . . .**
 
 <div align="center">
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
@@ -59,10 +79,11 @@
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS"/></code>
 </div>
 
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp; 
+
   
 <img src="images/Infographics.png" width="190" alt="Infographics" />
-</p>
+</p>-->
 
 <table>
   <tr>
