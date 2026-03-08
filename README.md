@@ -1,20 +1,4 @@
 
-<!--<p align="center">
-  <img src="" alt="logo" width="52" />
-</p>
--->
-<p align="center">
-  Hello world! <br> Visit my site to learn more about me! :D
-  
-</p>
-
-<p align="center">
-  <a href="https://kn15235.github.io/PortfolioWebsite/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-2f2f2f?style=flat-square&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
-
-
 
 
 
